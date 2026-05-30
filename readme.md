@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: José Miguel Moya Miranda
+- **Carrera**: Ingenieria de software
+- **Fecha de entrega**: 16-04-2026
 
 ---
 
